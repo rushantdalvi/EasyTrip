@@ -1,4 +1,4 @@
-# EasyTrip
+<img width="1353" height="591" alt="adventure" src="https://github.com/user-attachments/assets/88308c72-dd80-4031-8b5d-0ffb3eb860fd" /># EasyTrip
 Tour and Travel Website Frontend Project
 
 📖 About The Project:-
@@ -25,3 +25,13 @@ Installation:-
 git clone https://github.com/rushantdalvi/EasyTrip
 
 2. Open index.html in your browser to view the frontend.
+
+Screenshots:-
+<img width="1353" height="591" alt="adventure" src="https://github.com/user-attachments/assets/90625e02-91b7-43c2-83d3-65c6c8d6a93b" />
+<img width="1261" height="571" alt="contact" src="https://github.com/user-attachments/assets/5ae2d577-0c88-4257-8d62-61dc79f93f08" />
+<img width="1346" height="588" alt="footer" src="https://github.com/user-attachments/assets/cd671cb3-98ab-4457-ab8b-753cd7924482" />
+<img width="1342" height="583" alt="home" src="https://github.com/user-attachments/assets/4c81ead5-393b-494a-a653-f50f59a92238" />
+<img width="1342" height="580" alt="package1" src="https://github.com/user-attachments/assets/3ab5e2f2-189e-4663-9386-41ed9a1352ba" />
+<img width="1340" height="585" alt="package2" src="https://github.com/user-attachments/assets/b197ed91-c26a-44b4-85fd-549019ef78fd" />
+
+
